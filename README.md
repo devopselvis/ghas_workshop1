@@ -4,6 +4,8 @@
   <a href="#books-resources">Resources</a>
 </p>
 
+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
+
 > This workshop is designed to get you familiar with GitHub Advanced Security (GHAS) so that you can better understand how to use it in your own repositories.
 
 ## :mega: Prerequisites
